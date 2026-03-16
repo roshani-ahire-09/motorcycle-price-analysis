@@ -107,8 +107,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
 **3. Add the dataset**  
-Download the dataset and place it in the same folder as the `.ipnyb` file.  
-Rename it to: `bikes (1).csv`
+Download the dataset to the `.ipnyb` file.  
+name it to: `Used_Bikes.csv`
 
 **4. Run the analysis**
 ```bash
