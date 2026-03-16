@@ -237,5 +237,5 @@ Data Analyst — Python · SQL · Tableau
 
 ---
 
-*This is a portfolio project built on a Kaggle practice dataset.*  
+*This is a portfolio project built on a practice dataset.*  
 *Findings are for analytical demonstration and should not be used for real pricing decisions.*
