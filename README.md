@@ -46,7 +46,7 @@ data cleaning → feature engineering → EDA → model building → model compa
 
 ## 🗂️ Dataset
 
-- **Source:** Indian used motorcycle listings (Kaggle practice dataset)
+- **Source:** Indian used motorcycle listings 
 - **Size:** 7,857 rows × 8 raw columns
 - **Raw columns:** `model_name`, `model_year`, `kms_driven`, `owner`, `location`, `mileage`, `power`, `price`
 - **Data issues found:** Mixed formats in kms_driven, 1,867 rows with fuel mileage in wrong column, 218 model names with no engine CC, 556 location variants
@@ -74,7 +74,7 @@ Python 3.10+
 ```
 motorcycle-price-analysis/
 │
-├── motorcycle_analysis_complete.py   ← main analysis file (all sections)
+├── motorcycle_analysis_complete.ipynb   ← main analysis file (all sections)
 ├── README.md                         ← this file
 │
 ├── Section breakdown:
@@ -107,12 +107,12 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
 **3. Add the dataset**  
-Download the dataset from Kaggle and place it in the same folder as the `.py` file.  
+Download the dataset and place it in the same folder as the `.ipnyb` file.  
 Rename it to: `bikes (1).csv`
 
 **4. Run the analysis**
 ```bash
-python motorcycle_analysis_complete.py
+python motorcycle_analysis_complete.ipnyb
 ```
 
 **Output:** 7 chart images saved to your folder + printed findings summary.
@@ -232,7 +232,7 @@ Engine **power (bhp) dominates** — it captures the buyer's fundamental questio
 
 **Roshani Dadaji Ahire**  
 Data Analyst — Python · SQL · Tableau  
-📧 roshani@email.com  
+📧 roshaniahire1110@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/roshaniahire)
 
 ---
